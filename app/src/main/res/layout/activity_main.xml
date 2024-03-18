@@ -40,4 +40,14 @@
         android:textSize="20sp"
         android:textStyle="bold"/>
 
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="503dp"
+        android:layout_below="@+id/textViewTipAmount"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="-64dp"
+        android:layout_marginEnd="0dp"
+        app:srcCompat="@drawable/money" />
+
 </RelativeLayout>
